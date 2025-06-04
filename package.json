@@ -1,0 +1,15 @@
+{
+    "name": "PreEntrega",
+    "version": "1.0.0",
+    "main": "Index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node Index.js",
+        
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Lucas.M.Pereyra",
+    "license": "ISC",
+    "description": "Proyecto integrador para Talento Tech."
+}
